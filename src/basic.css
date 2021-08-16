@@ -1,0 +1,116 @@
+@font-face /* CSS of YOGALINGAM PHOTOGRAPHY*/
+{
+	font-family:Leixo;
+    src:url("Leixo.ttf");
+} 
+@font-face
+{
+	font-family: basictitlefont;
+	src:url(basictitlefont.ttf);
+} 
+body
+{
+	background:#3063A5;
+}
+h1
+{
+	font-family: Leixo; 
+	color: #FFDF00;
+	font-size: 100px;
+	text-align: center;
+}
+div.container
+{
+	background-color:#A0A0A0;
+	width:1170px;
+	margin:auto;
+	position: relative;
+	top: 20px;
+}
+h2.author
+{
+	font-family: Leixo;
+	color: #FFDF00;
+	font-size: 30px;
+	text-align: center;
+}
+h2
+{
+	font-family: Leixo;
+	color: #FFDF00;
+}
+h3
+{
+	font-family: Leixo;
+	text-decoration: none;
+	font-size: 25px;
+	text-align: center;
+}
+a.intrapageLink
+{
+	text-decoration: none;
+}
+.linkTopersonal
+{
+	text-decoration: none;
+}
+h2.author:hover
+{
+	color: #FFFF99;
+}
+img.imagesUsed:hover
+{
+	-webkit-filter: blur(5px);
+	filter: blur(5px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+nav
+{
+	font-family: Leixo;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.linkedPages
+{
+	text-decoration: none;
+	font-size: 25px;
+}
+a
+{
+	color: #FFDF00;
+}
+a:hover
+{
+	color: #FFFF99;
+}
+p
+{
+	color: #FFDF00;
+	font-family: basictitlefont;
+	font-size: 25px;
+}
+p.photoCategories
+{
+	font-family: Leixo;
+	font-size: 25px;
+	text-align: center;
+}
+aside 
+{
+    float:left;
+    width: 500px;
+    padding: 30px 0 0 40px;
+}
+ul
+{
+	color: #FFDF00;
+	font-family: basictitlefont;
+	font-size: 27px;	
+}
+header
+{
+	font-family: Leixo;
+	color: #FFDF00;
+	font-size: 30px;
+}
